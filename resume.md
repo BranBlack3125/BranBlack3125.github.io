@@ -38,7 +38,7 @@ Role Summary:
 
 **Graduate Teaching Assistant (FTA)** (Oct, 2008 - Apr, 2014)
 
-Drudge, slave, indentured servent, and so on.
+Role Summary:
+-Drudge, slave, indentured servent, and so on.
 
-[Oregon State University]: http://oregonstate.edu/
-[Alternative Website]:
+[OregonState University]: http://oregonstate.edu/
